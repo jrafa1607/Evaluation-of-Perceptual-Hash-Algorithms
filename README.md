@@ -28,6 +28,7 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 - [x] ParkDatabase (11 Imagens)
 
 
+
 ## Visão Computacional
 ### 📊📝 Automações de Visão Computacional com Python
 > Para realizar os experimentos, foram desenvolvidos duas automações em Python:
