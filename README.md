@@ -19,15 +19,9 @@ As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: 
 - [x] Washington Database (07 Imagens)
 
 #### PalaceDatabase e MountainDatabase
-As Bases PalaceDatabase e MountainDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
+As Bases PalaceDatabase e MountainDatabase foram selecionadas na Base de Imagens: <b> SUID: Synthetic Underwater Image Dataset.</b> Disponível no Link: https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset
 - [x] PalaceDatabase (31 Imagens)
 - [x] MountainDatabase (31 Imagens)
-
-Sobre o total de Imagens em Cada base utilizada
-- 21 Imagens -> Lenna Database
-- 07 Imagens -> Washington Database
-- 31 Imagens -> PalaceDatabase 
-- 31 Imagens -> MountainDatabase
 
 
 
