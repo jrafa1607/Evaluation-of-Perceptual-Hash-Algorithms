@@ -1,7 +1,7 @@
 # Avaliação de Algoritmos para Hash Perceptivo
 > Nesse repositório, estão armazenadas os arquivos utilizados para o desenvolvimento da pesquisa de avaliação de Algoritmos para Hash Perceptivo. Foram selecionados 6 tipos de Algoritmos de Hash Perceptivos: AverageHash, Crop-ResistanceHash, DifferenceHash, HSV-ColorHash, PerceptualHash e WaveletHash
 
-## Experimento
+## Experimento de Visão Computacional
 ### 💻 Base de Imagens para os Experimentos
 
 <p align="center">
@@ -28,39 +28,14 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 - [x] ParkDatabase (11 Imagens)
 
 
-
-## Visão Computacional
-### 📊📝 Automações de Visão Computacional com Python
+## Automações em Python
+### 📊📝 Automações para Visão Computacional com Python
 > Para realizar os experimentos, foram desenvolvidos duas automações em Python:
-- 
+- [x] <b>Perceptual Hashing Evaluation:</b> Automação responsável por Calcular a distância de Hamming entre os 6 Tipos de Hash Perceptivo e a Imagem Original
+- [x] <b>Distance Calc (Euclidean & Manhattan):</b> Automação responsável por Cálcular a distância Eucliana e Manhattan dos Valores de Hamming obtidos pela primeira automação.
 
 
-
-
-
-### 📈 Outras informações sobre o Experimento
+### 📈 Informações sobre o Experimento
 - A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo de Cada Imagem nas Bases selecionadas e a Imagem Original.
 - A pasta Distances contém as imagens com as fórmulas e anotações sobre as Distâncias de Hamming, Euclidiana, Manhattan e Minkovski.
 - A pasta Resultados contém os resultados do Hash Convencional, do Hash Perceptivo e dos cálculos de distância.
-
-
-Lembrando que o arquivo <b>contas</b> deve ter o nome das contas do seu ambiente AWS, o mesmo nome configurado no arquivo <b>Config</b>. Por exemplo:
-
-#### Arquivo Contas
-`<AccountName-Num1>`<br>
-`<AccountName-Num2>`
-
-#### Arquivo Config
-`[profile <AccountName-Num1>]`<br>
-`sso_start_url = URL`<br>
-`sso_region = <region>`<br>
-`sso_account_id=<ID Number>`<br>
-`sso_role_name = <PermissionSet>`<br>
-`output = json`<br>
-
-`[profile <AccountName-Num2>]`<br>
-`sso_start_url = URL`<br>
-`sso_region = <region>`<br>
-`sso_account_id=<ID Number>`<br>
-`sso_role_name = <PermissionSet>`<br>
-`output = json`<br>
