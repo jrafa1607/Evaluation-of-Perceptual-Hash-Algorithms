@@ -5,7 +5,7 @@
 ### 💻 Base de Imagens para os Experimentos
 
 <p align="center">
-  <img src="image_database.jpeg" alt="Cloud Computing" style="width: 350px; height: 350px;">
+  <img src="image_database.jpeg" alt="Cloud Computing">
 </p>
 
 Para o desenvolvimento do experimento, foi utilizado 5 bases de Imagens.
