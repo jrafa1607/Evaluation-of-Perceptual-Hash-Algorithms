@@ -36,6 +36,6 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 
 
 ### 📈 Informações sobre o Experimento
-- A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo de Cada Imagem nas Bases selecionadas e a Imagem Original.
-- A pasta Distances contém as imagens com as fórmulas e anotações sobre as Distâncias de Hamming, Euclidiana, Manhattan e Minkovski.
-- A pasta Resultados contém os resultados do Hash Convencional, do Hash Perceptivo e dos cálculos de distância.
+> A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo e a Imagem Original.
+> A pasta Anexos contém as imagens com as fórmulas e anotações sobre as Distâncias de Hamming, Euclidiana, Manhattan e Minkovski.
+> A pasta Resultados contém os resultados do Hash Convencional, do Hash Perceptivo e dos cálculos de distância.
