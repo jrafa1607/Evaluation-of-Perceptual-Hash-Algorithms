@@ -28,14 +28,14 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 - [x] ParkDatabase (11 Imagens)
 
 
-## Automações em Python
+## Sobre as Automações
 ### 📊📝 Automações para Visão Computacional com Python
-> Para realizar os experimentos, foram desenvolvidos duas automações em Python:
+Para realizar os experimentos, foram desenvolvidos duas automações em Python:
 - [x] <b>Perceptual Hashing Evaluation:</b> Automação responsável por Calcular a distância de Hamming entre os 6 Tipos de Hash Perceptivo e a Imagem Original
 - [x] <b>Distance Calc (Euclidean & Manhattan):</b> Automação responsável por Cálcular a distância Eucliana e Manhattan dos Valores de Hamming obtidos pela primeira automação.
 
 
 ### 📈 Informações sobre o Experimento
 - A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo e a Imagem Original.
-- A pasta Anexos contém as imagens com as fórmulas e anotações sobre as Distâncias de Hamming, Euclidiana, Manhattan e Minkovski.
 - A pasta Resultados contém os resultados do Hash Convencional, do Hash Perceptivo e dos cálculos de distância.
+- A pasta Anexos contém as imagens com as fórmulas e anotações sobre as Distâncias de Hamming, Euclidiana, Manhattan e Minkovski.
