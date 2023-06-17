@@ -1,20 +1,43 @@
 # Avaliação de Algoritmos para Hash Perceptivo
-
 > Nesse repositório, estão armazenadas os arquivos utilizados para o desenvolvimento da pesquisa de avaliação de Algoritmos para Hash Perceptivo. Foram selecionados 6 tipos de Algoritmos de Hash Perceptivos: AverageHash, Crop-ResistanceHash, DifferenceHash, HSV-ColorHash, PerceptualHash e WaveletHash
-
 
 ## Experimento
 ### 💻 Base de Imagens para os Experimentos
 
-Para o desenvolvimento do experimento, foi utilizado 6 bases de Imagens:
+<p align="center">
+  <img src="image_database.jpeg" alt="Cloud Computing" style="width: 350px; height: 350px;">
+</p>
+
+Para o desenvolvimento do experimento, foi utilizado 5 bases de Imagens.
+Todas as bases possuem uma imagem Original e outras variações da imagem Original.
+O Objetivo do experimento é identificar que ambas as imagens, Original e Variações, possuem uma relação determinada pelo Hash Perceptivo.
+Todas as bases de imagens estão disponíveis [nesse repositório:](https://github.com/jrafa1607/Evaluation-of-Perceptual-Hash-Algorithms/tree/main/ImageDatabase)
+
+As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
+- [x] Lenna Database
+- [x] Washington Database
+
+As Bases PalaceDatabase e MountainDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
+- [x] PalaceDatabase 
+- [x] MountainDatabase 
+
+
+Sobre o total de Imagens em Cada base utilizada
+- 21 Imagens -> Lenna Database
+- 07 Imagens -> Washington Database
+- 31 Imagens -> PalaceDatabase 
+- 31 Imagens -> MountainDatabase
 
 
 
-Para executar as automações desenvolvidas para ambientes AWS, é necessário:
-- [x] [Instalação e Configuração do AWS CLI](https://aws.amazon.com/pt/cli/)
-- [x] Configurar no Diretório .AWS os arquivos `Config` e `Credentials`
-- [x] Copiar as automações disponíveis neste repositório para um diretório na home do seu usuário.
-- [x] Copiar para dentro do diretório recém-criado, o arquivo chamado "contas"
+ParkDatabase (01 Original Image and 10 Alternative): 11 Images
+The ParkDatabase was selected from the Dataset: CoMoFoD - Image Database for Copy-Move Forgery Detection. Available at Link: https://www.vcl.fer.hr/comofod/download.html
+
+
+
+
+
+
 
 Lembrando que o arquivo <b>contas</b> deve ter o nome das contas do seu ambiente AWS, o mesmo nome configurado no arquivo <b>Config</b>. Por exemplo:
 
