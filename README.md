@@ -5,7 +5,7 @@
 ### 💻 Base de Imagens para os Experimentos
 
 <p align="center">
-  <img src="image_database.jpeg" alt="Cloud Computing">
+  <img src="Anexos/image_database.jpeg" alt="Cloud Computing">
 </p>
 
 Para o desenvolvimento do experimento, foi utilizado 5 bases de Imagens.
@@ -21,17 +21,26 @@ As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: 
 #### PalaceDatabase e MountainDatabase
 As Bases PalaceDatabase e MountainDatabase foram selecionadas na Base de Imagens: <b> SUID: Synthetic Underwater Image Dataset.</b> Disponível no Link: https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset
 - [x] PalaceDatabase (31 Imagens)
-- [x] MountainDatabase (31 Imagens)
+- [x] MountainDatabase (30 Imagens)
+
+#### ParkDatabase
+A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b> Disponível no Link: https://www.vcl.fer.hr/comofod/download.html
+- [x] ParkDatabase (11 Imagens)
+
+
+## Visão Computacional
+### 📊📝 Automações de Visão Computacional com Python
+> Para realizar os experimentos, foram desenvolvidos duas automações em Python:
+- 
 
 
 
-ParkDatabase (01 Original Image and 10 Alternative): 11 Images
-The ParkDatabase was selected from the Dataset: CoMoFoD - Image Database for Copy-Move Forgery Detection. Available at Link: https://www.vcl.fer.hr/comofod/download.html
 
 
-
-
-
+### 📈 Outras informações sobre o Experimento
+- A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo de Cada Imagem nas Bases selecionadas e a Imagem Original.
+- A pasta Distances contém as imagens com as fórmulas e anotações sobre as Distâncias de Hamming, Euclidiana, Manhattan e Minkovski.
+- A pasta Resultados contém os resultados do Hash Convencional, do Hash Perceptivo e dos cálculos de distância.
 
 
 Lembrando que o arquivo <b>contas</b> deve ter o nome das contas do seu ambiente AWS, o mesmo nome configurado no arquivo <b>Config</b>. Por exemplo:
