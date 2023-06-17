@@ -13,14 +13,15 @@ Todas as bases possuem uma imagem Original e outras variações da imagem Origin
 O Objetivo do experimento é identificar que ambas as imagens, Original e Variações, possuem uma relação determinada pelo Hash Perceptivo.
 Todas as bases de imagens estão disponíveis [nesse repositório:](https://github.com/jrafa1607/Evaluation-of-Perceptual-Hash-Algorithms/tree/main/ImageDatabase)
 
+####  LennaDatabase e WashingtonDatabase
 As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
 - [x] Lenna Database
 - [x] Washington Database
 
+#### PalaceDatabase e MountainDatabase
 As Bases PalaceDatabase e MountainDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
 - [x] PalaceDatabase 
 - [x] MountainDatabase 
-
 
 Sobre o total de Imagens em Cada base utilizada
 - 21 Imagens -> Lenna Database
