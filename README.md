@@ -1,13 +1,10 @@
-# Avaliação de Algoritmos para Hash Perceptivo
-> Nesse repositório, estão armazenadas os arquivos utilizados para o desenvolvimento da pesquisa de avaliação de Algoritmos para Hash Perceptivo. Foram selecionados 6 tipos de Algoritmos de Hash Perceptivos: AverageHash, Crop-ResistanceHash, DifferenceHash, HSV-ColorHash, PerceptualHash e WaveletHash
+# Perceptual Hash Algorithms Evaluation
+> In this repository have the files used for the development of Perceptual Hash Algorithms Evaluation Research. 6 types of Perceptual Hash Algorithms were selected in this Research: AverageHash, Crop-ResistanceHash, DifferenceHash, HSV-ColorHash, PerceptualHash and WaveletHash
 
-## Experimento de Visão Computacional
-### 💻 Base de Imagens para os Experimentos
+## Computational Vision Experiment about Perceptual Hash
+### 💻 Image Databases Description
 
-Para o desenvolvimento do experimento, foram selecionadas 5 bases de Imagens.
-Todas as bases possuem uma imagem Original e outras variações da imagem Original.
-O Objetivo do experimento é identificar que ambas as imagens, Original e Variações, possuem uma relação determinada pelo Hash Perceptivo.
-Todas as bases de imagens estão disponíveis [nesse repositório:](https://github.com/jrafa1607/Evaluation-of-Perceptual-Hash-Algorithms/tree/main/ImageDatabase)
+> For the development of the experiment, 5 image databases were selected. All bases have an Original image and the variations of the Original image. The objective of the experiment is to identify that both images, Original and Variations, if they have a relationship determined by the Perceptual Hash. All image databases are available [in this repository:](https://github.com/jrafa1607/Evaluation-of-Perceptual-Hash-Algorithms/tree/main/ImageDatabase)
 
 ####  LennaDatabase e WashingtonDatabase
 As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
