@@ -8,16 +8,15 @@
 - [x] Lenna Database (20 Images)
 - [x] Washington Database (07 Images)
 
-#### PalaceDatabase And MountainDatabase - Avaliable in: [<b> SUID: Synthetic Underwater Image Dataset.</b>](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)
+#### PalaceDatabase And Mountain Database - Avaliable in: [<b> SUID: Synthetic Underwater Image Dataset.</b>](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)
 - [x] PalaceDatabase (31 Images)
 - [x] MountainDatabase (30 Images)
 
-#### ParkDatabase
-A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b> Disponível no Link: https://www.vcl.fer.hr/comofod/download.html
-- [x] ParkDatabase (11 Imagens)
+#### ParkDatabase - Avaliable in: [<b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b>](https://www.vcl.fer.hr/comofod/download.html)
+- [x] ParkDatabase (11 Images)
 
 
-## Sobre as Automações
+## About the Computational Vision Automations
 ### 📊📝 Automações para Visão Computacional com Python
 Para realizar os experimentos, foram desenvolvidos duas automações em Python:
 - [x] <b>Perceptual Hashing Evaluation:</b> Automação responsável por Calcular a distância de Hamming entre os 6 Tipos de Hash Perceptivo e a Imagem Original
