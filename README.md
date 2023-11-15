@@ -1,5 +1,5 @@
 ## Computational Vision Experiment about Perceptual Hash Algorithms Evaluation
-> In this repository have the files used for the development of Perceptual Hash Algorithms Evaluation Research. 6 types of Perceptual Hash Algorithms were selected in this Research: AverageHash, Crop-ResistanceHash, DifferenceHash, HSV-ColorHash, PerceptualHash and WaveletHash
+> In this repository have the files used for the development of Perceptual Hash Algorithms Evaluation Research. 5 types of Perceptual Hash Algorithms were selected in this Research: AverageHash, Crop-ResistanceHash, DifferenceHash, PerceptualHash and WaveletHash
 
 ### 💻 Image Databases Description
 > For the development of the experiment, 5 image databases were selected. All bases have an Original image and the variations of the Original image. The objective of the experiment is to identify that both images, Original and Variations, if they have a relationship determined by the Perceptual Hash. All image databases are available in [this repository](https://github.com/jrafa1607/Evaluation-of-Perceptual-Hash-Algorithms/tree/main/ImageDatabase)
@@ -16,7 +16,7 @@
 - [x] ParkDatabase (11 Images)
 
 ### 📊📝 About the Computational Vision Automations with Python
-- [x] <b>Perceptual Hashing Evaluation:</b> Calculate the 6 types of Perceptual Hashing of the Original Image: AverageHash, Crop-ResistanceHash, DifferenceHash, HSV-ColorHash, PerceptualHash and WaveletHash. After that, calculate the Hamming Distance between the 6 types of Perceptual Hashing and the Original Image.
+- [x] <b>Perceptual Hashing Evaluation:</b> Calculate the 5 types of Perceptual Hashing of the Original Image: AverageHash, Crop-ResistanceHash, DifferenceHash, PerceptualHash and WaveletHash. After that, calculate the Hamming Distance between the 6 types of Perceptual Hashing and the Original Image.
 
 - [x] <b>Distance Calc (Euclidean & Manhattan): </b> Calculate the Euclidean & Manhattan Distances between the results of Hamming Distance in the Perceptual Hashing Evaluation
 
