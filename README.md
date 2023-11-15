@@ -16,10 +16,10 @@
 - [x] ParkDatabase (11 Images)
 
 
-## About the Computational Vision Automations
-### 📊📝 Automações para Visão Computacional com Python
-Para realizar os experimentos, foram desenvolvidos duas automações em Python:
-- [x] <b>Perceptual Hashing Evaluation:</b> Automação responsável por Calcular a distância de Hamming entre os 6 Tipos de Hash Perceptivo e a Imagem Original
+## Files Description
+### 📊📝 About the Computational Vision Automations with Python
+
+- [x] <b>Perceptual Hashing Evaluation:</b> Calculate the Hamming Distance between the 6 types of Perceptual Hashing and the Original Image
 - [x] <b>Distance Calc (Euclidean & Manhattan):</b> Automação responsável por Cálcular a distância Eucliana e Manhattan dos Valores de Hamming obtidos pela primeira automação.
 
 
