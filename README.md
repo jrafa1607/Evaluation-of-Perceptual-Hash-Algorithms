@@ -4,10 +4,6 @@
 ## Experimento de Visão Computacional
 ### 💻 Base de Imagens para os Experimentos
 
-<p align="center">
-  <img src="Anexos/image_database.jpeg" alt="Cloud Computing">
-</p>
-
 Para o desenvolvimento do experimento, foram selecionadas 5 bases de Imagens.
 Todas as bases possuem uma imagem Original e outras variações da imagem Original.
 O Objetivo do experimento é identificar que ambas as imagens, Original e Variações, possuem uma relação determinada pelo Hash Perceptivo.
