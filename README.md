@@ -1,10 +1,9 @@
-# Perceptual Hash Algorithms Evaluation
+## Computational Vision Experiment about Perceptual Hash Algorithms Evaluation
 > In this repository have the files used for the development of Perceptual Hash Algorithms Evaluation Research. 6 types of Perceptual Hash Algorithms were selected in this Research: AverageHash, Crop-ResistanceHash, DifferenceHash, HSV-ColorHash, PerceptualHash and WaveletHash
 
-## Computational Vision Experiment about Perceptual Hash
 ### 💻 Image Databases Description
 
-> For the development of the experiment, 5 image databases were selected. All bases have an Original image and the variations of the Original image. The objective of the experiment is to identify that both images, Original and Variations, if they have a relationship determined by the Perceptual Hash. All image databases are available [in this repository:](https://github.com/jrafa1607/Evaluation-of-Perceptual-Hash-Algorithms/tree/main/ImageDatabase)
+> For the development of the experiment, 5 image databases were selected. All bases have an Original image and the variations of the Original image. The objective of the experiment is to identify that both images, Original and Variations, if they have a relationship determined by the Perceptual Hash. All image databases are available in [this repository](https://github.com/jrafa1607/Evaluation-of-Perceptual-Hash-Algorithms/tree/main/ImageDatabase)
 
 ####  LennaDatabase e WashingtonDatabase
 As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
