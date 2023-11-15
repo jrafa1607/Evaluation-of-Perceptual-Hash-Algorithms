@@ -17,7 +17,7 @@
 
 ### 📊📝 About the Computational Vision Automations with Python
 - [x] <b>Perceptual Hashing Evaluation:</b> Calculate the Hamming Distance between the 6 types of Perceptual Hashing and the Original Image
-- [x] <b>Distance Calc (Euclidean & Manhattan): Calculate the Euclidean & Manhattan Distances between the results of Hamming Distance in the Perceptual Hashing Evaluation
+- [x] <b>Distance Calc (Euclidean & Manhattan): </b> Calculate the Euclidean & Manhattan Distances between the results of Hamming Distance in the Perceptual Hashing Evaluation
 
 ### 📈 Informações sobre o Experimento
 - A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo e a Imagem Original.
