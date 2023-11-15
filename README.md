@@ -16,10 +16,11 @@
 - [x] ParkDatabase (11 Images)
 
 ### 📊📝 About the Computational Vision Automations with Python
-- [x] <b>Perceptual Hashing Evaluation:</b> Calculate the Hamming Distance between the 6 types of Perceptual Hashing and the Original Image
+- [x] <b>Perceptual Hashing Evaluation:</b> Calculate the 6 types of Perceptual Hashing of the Original Image: AverageHash, Crop-ResistanceHash, DifferenceHash, HSV-ColorHash, PerceptualHash and WaveletHash. After that, calculate the Hamming Distance between the 6 types of Perceptual Hashing and the Original Image.
+
 - [x] <b>Distance Calc (Euclidean & Manhattan): </b> Calculate the Euclidean & Manhattan Distances between the results of Hamming Distance in the Perceptual Hashing Evaluation
 
-### 📈 Informações sobre o Experimento
-- A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo e a Imagem Original.
-- A pasta Resultados contém os resultados do Hash Convencional, do Hash Perceptivo e dos cálculos de distância.
-- A pasta Anexos contém as imagens com as fórmulas e anotações sobre as Distâncias de Hamming, Euclidiana, Manhattan e Minkovski.
+### 📈 Additional Info about the Experiment
+- The folder Dados has the Hamming Distances Results Values.
+- The folder ImageDatabases has all the images used in this experiment.
+- The folder Results has all info about Conventional Hash (MD5, SHA-1 and SHA-256), Prceptual Hashing and Distances Calcs.
