@@ -1,4 +1,4 @@
-## Computational Vision Experiment about Perceptual Hash Algorithms Evaluation
+## Computational Vision - Perceptual Hash Algorithms Evaluation
 > In this repository have the files used for the development of Perceptual Hash Algorithms Evaluation Research. 5 types of Perceptual Hash Algorithms were selected in this Research: AverageHash, Crop-ResistanceHash, DifferenceHash, PerceptualHash and WaveletHash
 
 ### 💻 Image Databases Description
@@ -23,4 +23,4 @@
 ### 📈 Additional Info about the Experiment
 - The folder Dados has the Hamming Distances Results Values.
 - The folder ImageDatabases has all the images used in this experiment.
-- The folder Results has all info about Conventional Hash (MD5, SHA-1 and SHA-256), Prceptual Hashing and Distances Calcs.
+- The folder Results has all info about Conventional Hash (MD5, SHA-1 and SHA-256), Prceptual Hashing and Hamming Distances Calcs.
