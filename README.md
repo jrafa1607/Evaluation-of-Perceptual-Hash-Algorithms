@@ -8,7 +8,7 @@
 
 #### - PalaceDatabase (31 Images) And Mountain Database (30 Images) - Avaliable in: [<b> SUID: Synthetic Underwater Image Dataset.</b>](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)
 
-#### ParkDatabase (11 Images) - Avaliable in: [<b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b>](https://www.vcl.fer.hr/comofod/download.html)
+#### - ParkDatabase (11 Images) - Avaliable in: [<b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b>](https://www.vcl.fer.hr/comofod/download.html)
 
 ### 📊📝 About the Computational Vision Automations with Python
 - [x] <b>Perceptual Hashing Evaluation:</b> Calculate the 5 types of Perceptual Hashing of the Original Image: AverageHash, Crop-ResistanceHash, DifferenceHash, PerceptualHash and WaveletHash. After that, calculate the Hamming Distance between the 5 types of Perceptual Hashing and the Original Image.
