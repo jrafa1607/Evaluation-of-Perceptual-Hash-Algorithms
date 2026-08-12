@@ -6,13 +6,18 @@
 
 ### Experiments & Analysis
 The included notebook performs the following:
-1.  **Dataset Processing**: Loads and analyzes five distinct image databases (Lenna, Mountain, Palace, Park, and Washington).
+1.  **Dataset Processing**: Loads and analyzes five distinct image databases:
+- [x] Lenna Database,
+- [x] Mountain Database,
+- [x] Palace Database,
+- [x] Park Database,
+- [x] Washington Database.
 2.  **Distance Calculation**: Computes distances for:
 - [x] Average Hashing,
 - [x] Perceptual Hashing,
 - [x] Difference Hashing,
 - [x] Wavelet Hashing,
-- [x] Crop-Resistant Hashing
+- [x] Crop-Resistant Hashing.
 3.  **Comparative Metrics**: Calculates **Euclidean** and **Manhattan** distances to measure the similarity deviation from an original image.
 
 ---
