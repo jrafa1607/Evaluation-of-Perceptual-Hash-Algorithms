@@ -38,11 +38,6 @@ To run the analysis:
 
 ---
 
-### Visualizations
-The script generates plots to visualize the Hamming Distance variations across the different hashing algorithms, allowing for quick identification of which algorithms produce lower distance values (indicating higher perceptual similarity).
-
----
-
 ### 🧰 Tools & Technologies
 The project relies on the following core libraries and programming languages:
 
