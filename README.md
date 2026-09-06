@@ -43,6 +43,18 @@ The script generates plots to visualize the Hamming Distance variations across t
 
 ---
 
+### 🧰 Tools & Technologies
+The project relies on the following core libraries and programming languages:
+
+* **Python:** The core programming language used for data analysis and scripting.
+* **ImageHash:** Library for image hashing and perceptual similarity calculations (aHash, pHash, dHash, wHash, etc.).
+* **OpenCV:** Used for computer vision tasks, image loading, and color space transformations (such as HsvHash).
+* **NumPy:** Essential for efficient numerical operations, matrix manipulations, and array handling.
+* **Pandas:** Utilized for structuring, cleaning, and analyzing tabular experimental data and distance metrics.
+* **PIL (Pillow):** Python Imaging Library used for opening, manipulating, and processing various image formats.
+
+---
+
 ### 🔒🛠️ Intellectual Property (IP) Protection ( License, Restrictions, and Copyright )
 All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
 
