@@ -1,8 +1,8 @@
 ## 📊📝 Evaluation of Perceptual Hash Algorithms
-> This repository contains experiments focused on evaluating various **Perceptual Hashing** algorithms by analyzing their Hamming Distance values across different image databases. 
-> The objective is to understand how these algorithms perform when identifying image similarities and robustness.
-> About **Perceptual Hash**, is a type of Hashing that generates a fingerprint for an image that is robust against minor modifications (such as scaling or brightness changes).
-> This project calculates and compares the Euclidean and Manhattan distances for several hashing algorithms to determine their effectiveness.
+This repository contains experiments focused on evaluating various **Perceptual Hashing** algorithms by analyzing their Hamming Distance values across different image databases. 
+The objective is to understand how these algorithms perform when identifying image similarities and robustness.
+About **Perceptual Hash**, is a type of Hashing that generates a fingerprint for an image that is robust against minor modifications (such as scaling or brightness changes).
+This project calculates and compares the Euclidean and Manhattan distances for several hashing algorithms to determine their effectiveness.
 
 ### Experiments & Analysis
 The included notebook performs the following:
@@ -49,8 +49,7 @@ The script generates plots to visualize the Hamming Distance variations across t
 
 ---
 
-#### 🔒🛠️ Intellectual Property (IP) Protection ( License, Restrictions, and Copyright )
-
+### 🔒🛠️ Intellectual Property (IP) Protection ( License, Restrictions, and Copyright )
 All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
 
-> **Copyright © 2026 João Rafael Gonçalves Evangelista.**
+**Copyright © 2026 João Rafael Gonçalves Evangelista.**
