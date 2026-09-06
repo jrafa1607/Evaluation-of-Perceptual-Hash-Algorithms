@@ -2,6 +2,7 @@
 This repository contains experiments focused on evaluating various **Perceptual Hashing** algorithms by analyzing their Hamming Distance values across different image databases. 
 The objective is to understand how these algorithms perform when identifying image similarities and robustness.
 <br>
+
 About **Perceptual Hash**, is a type of Hashing that generates a fingerprint for an image that is robust against minor modifications (such as scaling or brightness changes).
 This project calculates and compares the Euclidean and Manhattan distances for several hashing algorithms to determine their effectiveness.
 
