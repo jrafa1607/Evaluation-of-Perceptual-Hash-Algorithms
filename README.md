@@ -6,20 +6,12 @@ The objective is to understand how these algorithms perform when identifying ima
 About **Perceptual Hash**, is a type of Hashing that generates a fingerprint for an image that is robust against minor modifications (such as scaling or brightness changes).
 This project calculates and compares the Euclidean and Manhattan distances for several hashing algorithms to determine their effectiveness.
 
+---
+
 ### Experiments & Analysis
 The included notebook performs the following:
-1.  **Dataset Processing**: Loads and analyzes five distinct image databases:
-- [x] Lenna Database,
-- [x] Mountain Database,
-- [x] Palace Database,
-- [x] Park Database,
-- [x] Washington Database.
-2.  **Distance Calculation**: Computes distances for:
-- [x] Average Hashing,
-- [x] Perceptual Hashing,
-- [x] Difference Hashing,
-- [x] Wavelet Hashing,
-- [x] Crop-Resistant Hashing.
+1.  **Dataset Processing**: Loads and analyzes five distinct image databases: Lenna, Mountain, Palace, Park and Washington.
+2.  **Distance Calculation**: Computes distances for: Average Hashing, Perceptual Hashing, Difference Hashing, Wavelet Hashing, and Crop-Resistant Hashing.
 3.  **Comparative Metrics**: Calculates **Euclidean** and **Manhattan** distances to measure the similarity deviation from an original image.
 
 ---
