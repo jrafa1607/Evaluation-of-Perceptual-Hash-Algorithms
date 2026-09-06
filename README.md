@@ -10,9 +10,9 @@ This project calculates and compares the Euclidean and Manhattan distances for s
 
 ### Experiments & Analysis
 The included notebook performs the following:
-1.  **Dataset Processing**: Loads and analyzes five distinct image databases: Lenna, Mountain, Palace, Park and Washington.
-2.  **Distance Calculation**: Computes distances for: Average Hashing, Perceptual Hashing, Difference Hashing, Wavelet Hashing, and Crop-Resistant Hashing.
-3.  **Comparative Metrics**: Calculates **Euclidean** and **Manhattan** distances to measure the similarity deviation from an original image.
+1.  Loads and analyzes five distinct image databases: Lenna, Mountain, Palace, Park and Washington.
+2.  Computes distances for Average Hashing, Perceptual Hashing, Difference Hashing, Wavelet Hashing, and Crop-Resistant Hashing.
+3.  Calculates **Euclidean** and **Manhattan** distances to measure the similarity deviation from an original image.
 
 ---
 
