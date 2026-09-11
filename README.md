@@ -1,4 +1,4 @@
-## 📊📝 Evaluation of Perceptual Hash Algorithms
+### 📊📝 Evaluation of Perceptual Hash Algorithms
 This repository contains experiments focused on evaluating various **Perceptual Hashing** algorithms by analyzing their Hamming Distance values across different image databases. 
 The objective is to understand how these algorithms perform when identifying image similarities and robustness.
 <br>
@@ -8,7 +8,7 @@ This project calculates and compares the Euclidean and Manhattan distances for s
 
 ---
 
-### Experiments & Analysis
+#### Experiments & Analysis
 The included notebook performs the following:
 1.  Loads and analyzes five distinct image databases: Lenna, Mountain, Palace, Park and Washington.
 2.  Computes distances for [aHash, pHash, dHash, HsvHash, wHash, and crHash](https://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html).
@@ -16,7 +16,7 @@ The included notebook performs the following:
 
 ---
 
-### Image Databases Included
+#### Image Databases Included
 | Database | Image Count | Avaliable in |
 | :--- | :--- | :--- |
 | **Lenna** | 20 | [<b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b>](https://imageprocessingplace.com/root_files_V3/image_databases.htm) |
@@ -27,7 +27,7 @@ The included notebook performs the following:
 
 ---
 
-### Usage
+#### Usage
 To run the analysis:
 1.  Ensure you have the required libraries installed:
     ```bash
@@ -50,7 +50,9 @@ The project relies on the following core libraries and programming languages:
 
 ---
 
-### 🔒🛠️ Intellectual Property (IP) Protection ( License, Restrictions, and Copyright )
+#### ⚖️ Intellectual Property (IP) Notice
 All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
 
-**Copyright © 2026 João Rafael Gonçalves Evangelista.**
+**Copyright © 2026 João Rafael.**
+
+---
